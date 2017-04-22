@@ -138,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_tags": [
@@ -219,7 +219,7 @@
             "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
-          "text": "Dans mon travail, j'ai d'abord commencé par observer le monde autour de moi. J'essaie d'expliquer et de montrer différent points de vues de ma manière de voir les choses. Pour cela je fais des liens entre les différentes images, et aussi de faire des associations pour créer une nouvelle image. Je m'inspire de symboles, photos et objets de la vie de tous les jours. Je suis à la recherche de détails, et j'essaie de réagir de manière graphique pour montrer ma vision sur mon environnement.<br>",
+          "text": "<span style=\"font-style: normal;\">Dans mon travail, j'ai d'abord commencé par observer le monde autour de moi. J'essaie d'expliquer et de montrer différent points de vues de ma manière de voir les choses. Pour cela je fais des liens entre les différentes images, et aussi de faire des associations pour créer une nouvelle image. Je m'inspire de symboles, photos et objets de la vie de tous les jours. Je suis à la recherche de détails, et j'essaie de réagir de manière graphique pour montrer ma vision sur mon environnement.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -306,13 +306,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#29769f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#318bbb!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#3494c7"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -376,7 +376,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">French</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -442,8 +442,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Copyright Rules",
-          "text": "<span style=\"font-style: normal;\">All rights reserved. 2016, Pia Jacques de Dixmude.</span><b>&nbsp;</b>",
+          "title": "Copyright&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Tout droits réservés. 2016, Pia Jacques de Dixmude.</span><b>&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
@@ -650,13 +650,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#29769f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#318bbb!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#3494c7"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -720,7 +720,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">French</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -818,7 +818,7 @@
             "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
-          "text": "<p>To learn their alphabet to children, teachers and parents often use alphabet posters of alphabet books. The letters of the alphabet are often linked with a word:    A like Apple, B like Boy, etc. \nThe assignment was to make your own abcdarium, but for adults, it had to have 28 pages, with each page dedicated to a letter.  \n\nMy abcdarium called “As Easy As ABC” is based on English expressions.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">They are presented with images illustrating the expression litterally. This created a humorous image that played with the fact that expressions have two ways of being interpreted. When you don’t know an expression and you hear it for the first time it gives you always a strange image at first hand. I decided to base my abcdarium on this and show how I saw expression when you don’t know his meaning. I choose to do my book in English because for me English expressions are really a characteristic of this language and are numerous. I see it as a playful book between language and images.</span></p><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br></p>",
+          "text": "<p><span style=\"font-style: normal;\">Pour apprendre leur alphabet aux enfants, les professeurs et les enfants utilisent souvent des posters et des livres avec l'alphabet. Les lettres de l'alphabet sont souvent liés à un autre mot: A comme Arbre, B comme Bébé, etc. Le projet était de créer son propre abécédaire, mais pour adultes, et devant contenir 28 pages, avec chaque page dédiée à une lettre. Mon abécédaire \"As Easy As ABC\", basé sur les expressions anglaises.<br></span><br><span style=\"font-style: normal;\">Elles sont présentées avec des images illustrant l'expression littéralement. Ceci crée une image humouristique qui joue avec le fait que les expressions peuvent être interpretés de deux manières. Quand tu connais pas l'expression et tu l'entends pour la première fois cela te donne toujours une image un peu bizarre. J'ai décidé de basé mon abécédaire sur ceci et de montrer comment je vois chaque expression quand tu connais pas la signification. J'ai choisi de faire mon livre en anglais parce que pour moi les expressions anglaises sont particulièrement caractéristique de cette langue, et sont également très nombreuses. Je vois ce livre comme un jeu entre mots et images.&nbsp;<br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -1024,7 +1024,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">French</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1097,6 +1097,9 @@
               "font-size": "19px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-lead P": {
+              "font-size": "19px"
             }
           },
           "_tags": [
@@ -1124,7 +1127,7 @@
             "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
-          "text": "<span style=\"font-style: normal;\">The task was to design a poster based on a joke. First you had to choose a joke and, with visual typography, you had to give a chosen context to the joke. It was aimed at learning how to work with typography on a big format as the one of a poster. <br></span>\n\n<br><span style=\"font-style: normal;\">My poster was based on a joke about an architect that made a house for someone who wanted everything circular in his house. I wanted to give it the form of an architect plan, but also use circles. For the architect, I used a very classic typography to express his seriousness and for the other person, I put his words in circles and used Futura, a rounded typography. Some features around the text were added to make the poster look like an architect’s plan. By using only black, white and grey it creates a formal and architectural design. The title is also an important element in the poster and is placed in the corner on purpose, it is the conclusion of the joke but you understand it only if you have read the joke until the end.</span>",
+          "text": "<p><span style=\"font-style: normal; font-size: 1.07rem; line-height: 1.5;\">Le travail était de créer un poster à partir d'une blague. D'abord tu devais choisir une blague et, avec une bonne utilisation de typographie, essayer de donner une contexte à la blague. Le but était d'apprendre à travailler avec la typographie sur un grand format, comme celui d'un poster.</span><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-size: 19px; line-height: 28px;\">Mon poster était basé sur une blague sur un architecte qui dessine une maison pour quelqu'un qui voulait faire toutes les pièces rondes dans sa maison. Je voulais donner à mon poster le visuel d'un plan d'architecture mais aussi utilisé des ronds. Pour l'architecte, j'ai utilisé une typographie très classique pour montrer son sérieux, et pour l'autre personne j'ai utilisé des cercles et la typographie Futura, qui est très ronde. Quelques éléments ont été rajoutés autour des cercles pour que le poster ressemble plus à un plan d'architecture. En utilisant que du noir, blanc et gris, cela crée un plan formel et architectural. Le titre est aussi un élément important dans le poster et est placé dans le coin exprès, c'est la conclusion de la blague mais tu le comprends que quand tu as lu la blague jusqu'à la fin.</span></p><br><p><span style=\"font-size: 19px; line-height: 28px;\"><br></span></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -1232,13 +1235,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#29769f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#318bbb!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#3494c7"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1302,7 +1305,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">French</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_inherit": "header1",
@@ -1342,7 +1345,7 @@
             "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
-          "text": "<span style=\"font-style: normal;\">The task was to make a cover for a vinyl record chosen from a given list. The aim was to make a total new design for a cover of an already existing music record and to make your own interpretation of the album. \n\nThe labels had to be presented on the cover. We had work with the style of the artist, his music and in relation with the time when the album came out. The aim was to learn to collect iconographic elements on a already existing subject. It was also to give a visual identity to something as abstract as music</span>. <br>\n\n<br><span style=\"font-style: normal;\">I had chosen to work with the album “Music for falling from trees” from Peter Broderick. He wrote this music for a modern dance “falling from trees” piece show by the choreographer Adrienne Hart. <span style=\"line-height: 1.5;\">The performance goes on the different phases that a mentally ill patient goes through. The music is very melancholic. \nI took this photo, and reworked it to show a painful  process of mental sickness. I used the colour yellow inside the plate cover to show the inner madness of the person and red for the inner sleeve. It brings contrast with the yellow and express how a mentally ill person changes strongly of moods. At the back of the cover I reworked the photo of the golden rain-tree to highlight the importance of the yellow, the colour of mental illness and madness.</span></span><br>",
+          "text": "<span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\">\"Music For\" est la création d'une couverture pour un vinyle dans une liste qui était donnée. Le but était de créer un design totalement nouveau pour une musique déjà existante et faire ta propre interpétation de l'album. Les labels devaient également être présent sur la couverture. Nous devions travailler par rapport au style de l'artiste, sa musique et en relation avec l'époque dans laquelle l'album est sorti. Le but était d'apprendre à créer des éléments sur un sujet déjà existant. C'était egalement de créer une identité visuelle à quelque chose d'abstrait comme la musique.</span></span><br><span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\"><br></span></span><span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\">J'ai choisi de travailler avec l'album \"Music for falling from trees\" de Peter Broderick. Il a crée cette musique pour le spectacle de danse moderne \"falling from trees\" par la chorégraphe Adrienne Hart. La performance montre les différentes phases par lesquelles passe un patient souffrant de maladie mental. La musique est très melancholique. J'ai pris cette photo et l'ai retravaillé pour montrer le douloureux processus de maladie mentale. J'ai utilisé la couleur jaune à l'interieur pour montrer le mal intérieur de la personne, et du rouge pour la protéction intérieure. A l'arrière du vinyl j'ai retravaillée une photo d'un savonnier pour montrer l'importance du jaune, couleur symbole de la maladie mentale.<br></span></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -1436,13 +1439,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#29769f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#318bbb!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#3494c7"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1506,7 +1509,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">French</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1603,7 +1606,7 @@
             "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
-          "text": "<span style=\"font-style: normal;\">Istanbul Ekpres was the first assignment of second year. We had to create an identity for a film festival in Gent. The three posters are a part of the festival, and had to have the same visual identity. All the three were on the Istanbul Pogrom but the films were made at different times and exploited the subject from different point of views. \nThe Istanbul pogrom were organized and extremely violent attacks directed primarily at Istanbul’s Greek minority in 1955. It comes from a long history of wars and migration movements. <br><br>The films are made from the point of view of the Greeks who were victims of these conflicts.\n\nTo create a recognizable identity, I first used the colour red, a strong colour in terms of signification (conflict, blood pain but also love) and which is also the colour of the Turkish flag. The images come from the films and are all in black and white, to bring the attention the red of the typography. The different elements come back in each poster, always in the same form, with the title of the film in a circle form, like a stamp on a letter. <br><br>We can clearly see that the three posters are linked together but they can also be seen individually, each one has the required information for somebody who would like to see the film. I focussed especially on setting the typography and the images in a  balance way as both are as important. &nbsp;</span><br>",
+          "text": "<span style=\"font-style: normal;\">Istanbul Ekpres est le premier travail de ma seconde année. On a du créer une identité pour un film festival à Gand. Les trois posters sont des films qui ont été présentés un festival et devaient avoir la même identité visuelle. Tous les trois étaient sur le pogrom d'Istanbul mais les films étaient fait à des époques différentes et montraient le sujet sous différents points de vues. Le pogrom d'Istanbul étaient de attaques&nbsp;</span>extrêmement violentes visés sur les minorités grecques d'Istanbul en 1955. Cela vient d'une longue historiques de guerres de mouvements migratoires.<br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Les films étaient fait du point de vue des grecques qui étaient les victimes de ces conflits. Pour créer une identité reconnaisable, j'ai d'abord utilisé la couleur rouge, une couleur forte en terme de signification (conflit, sang, douleur mais également l'amour) et c'est également la couleur du drapeau turque. Les images viennent des films et sont en noir et blanc pour amener l'attention sur la typographie.&nbsp;</span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">On peut clairemnt voir que ces trois posters sont liés ensemble mais ils peuvent également exister individuellement, chacun contient les informations nécessaires pour aller voir le film. Je me suis focalisée sur un équilibre entre la typographie et les images.<br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -1693,13 +1696,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#29769f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#318bbb!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#3494c7"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1763,7 +1766,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">French</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">RECHERCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1821,8 +1824,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Cookies Privacy",
-          "text": "<span style=\"font-style: normal;\">This site respects the privacy of every individual who visits its websites. Any information collected about you will be used to fulfil any service you might request, to inform you about new products and services and also to improve how we serve you. Your data will be treated in accordance with relevant European Union and local country legal provisions. Your information will not be disclosed to anyone outside of this site.&nbsp;</span><br>",
+          "title": "Confidentialité des cookies",
+          "text": "<span style=\"font-style: normal; line-height: 1.5;\">Ce site respecte la confidentialité de chaque individu qui visite ce site. Toute information recolté à propos de vous pour un service que vous demandez sera pour améliorer notre service. Toute data sera traitée en accord avec les relevés de l'Union Européenne. Vos informations ne seront pas divulgués à n'importe qui en dehors de ce site.</span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
