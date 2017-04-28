@@ -257,23 +257,6 @@
           "title": "FULL SCREEN INTRO",
           "text": "<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     },
@@ -382,23 +365,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-o",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
@@ -457,23 +423,6 @@
         "title": "Bildhamburg"
       },
       "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-h",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -832,23 +781,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-d",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
@@ -1137,23 +1069,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-t",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_inherit": "header1",
@@ -1505,23 +1420,6 @@
           "_anchor": "gallery4-1a",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-15",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     },
@@ -1628,23 +1526,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-1c",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_inherit": "header1",
@@ -1885,23 +1766,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-1k",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_inherit": "header1",
