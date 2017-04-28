@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
-    "google-analytics": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-97879924-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -34,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Pia Jacques de Dixmude",
+        "meta_descr": "Site, Pia Jacques de Dixlude, graphic design",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -116,7 +116,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -138,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_tags": [
@@ -155,7 +155,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/brussl-building.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -278,7 +278,10 @@
       ]
     },
     "Copyright.html": {
-      "settings": {},
+      "settings": {
+        "meta_descr": "Copyright, Pia Jacques de Dixmude",
+        "title": "Copyright"
+      },
       "components": [
         {
           "_styles": {
@@ -354,7 +357,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -376,7 +379,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -449,7 +452,10 @@
       ]
     },
     "Bildhamburg.html": {
-      "settings": {},
+      "settings": {
+        "meta_descr": "Bildhamburg, project, grafisch ontwerp, Pia Jacques de Dixmude",
+        "title": "Bildhamburg"
+      },
       "components": [
         {
           "_name": "footer1",
@@ -467,6 +473,107 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-family": "'Droid Serif', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#29769f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#318bbb!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3494c7"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1j",
+          "_params": {
+            "bgColor": "#3494c7",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Droid Serif",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "css": "'Droid Serif', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_inherit": "header1",
@@ -621,7 +728,9 @@
     },
     "Abcdarium.html": {
       "settings": {
-        "order": 1
+        "order": 1,
+        "meta_descr": "Abcdarium, grafisch ontwerp, Pia Jacques de Dixmude",
+        "title": "Abcdarium"
       },
       "components": [
         {
@@ -698,7 +807,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -720,7 +829,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -926,7 +1035,10 @@
       ]
     },
     "Poster Joke.html": {
-      "settings": {},
+      "settings": {
+        "meta_descr": "Poster Joke, project, grafisch ontwerp, Pia Jacques de Dixmude",
+        "title": "Poster Joke"
+      },
       "components": [
         {
           "_styles": {
@@ -1002,7 +1114,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -1024,7 +1136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1166,7 +1278,10 @@
       ]
     },
     "Music For.html": {
-      "settings": {},
+      "settings": {
+        "title": "Music For",
+        "meta_descr": "Music For, project, grafisch ontwerp, Pia Jacques de Dixmude"
+      },
       "components": [
         {
           "_inherit": "header1",
@@ -1283,7 +1398,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -1305,7 +1420,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_inherit": "header1",
@@ -1411,7 +1526,10 @@
       ]
     },
     "Istanbul Ekspres.html": {
-      "settings": {},
+      "settings": {
+        "title": "Istanbul Ekspres",
+        "meta_descr": "Istanbul Ekspres, project, grafisch ontwerp, Pia Jacques de Dixmude"
+      },
       "components": [
         {
           "_styles": {
@@ -1487,7 +1605,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -1509,7 +1627,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1744,7 +1862,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -1766,7 +1884,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index_fr.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MON TRAVAIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abcdarium.html\">Abcdarium</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bildhamburg.html\">BildHamburg</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Poster Joke.html\">Joke Poster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music For.html\">Music For</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Istanbul Ekspres.html\">Istanbul Ekpres</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\">COPYRIGHT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cookies.html\" aria-expanded=\"false\">NAVIGATION &amp; COOKIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://piajacquesdedixmude.github.io/pub\" aria-expanded=\"false\">English</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Copyright.html\" aria-expanded=\"false\"></a></li>"
         },
         {
           "_name": "footer1",
